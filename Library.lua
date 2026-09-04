@@ -36,25 +36,25 @@ local CustomImageManagerAssets = {
     SaturationMap = {
         RobloxId = 4155801252,
         Path = "Obsidian/assets/SaturationMap.png",
-        URL = BaseURL .. "assets/SaturationMap.png",
+        URL = BaseURL .. "mods/SaturationMap.png",
         Id = nil,
     },
         LoadingIcon = {
         RobloxId = 97544096941083,
         Path = "Obsidian/assets/LoadingIcon.png",
-        URL = BaseURL .. "assets/LoadingIcon.png",
+        URL = BaseURL .. "mods/LoadingIcon.png",
         Id = nil,
     },
     CheckIcon = {
         RobloxId = 97682394690683,
         Path = "Obsidian/assets/CheckIcon.png",
-        URL = BaseURL .. "assets/CheckIcon.png",
+        URL = BaseURL .. "mods/CheckIcon.png",
         Id = nil,
     },
     Glow = {
         RobloxId = 88645182616510,
         Path = "Obsidian/assets/Glow.png",
-        URL = BaseURL .. "assets/Glow.png",
+        URL = BaseURL .. "mods/Glow.png",
         Id = nil,
     },
 }
